@@ -1,0 +1,9 @@
+[submodule "TableRecognition/TableNet"]
+	path = TableRecognition/TableNet
+	url = git@github.com:shihui2010/TableNet.git
+[submodule "TableRecognition/CascadeTabNet"]
+	path = TableRecognition/CascadeTabNet
+	url = git@github.com:shihui2010/CascadeTabNet.git
+[submodule "TableRecognition/table-transformer"]
+	path = TableRecognition/table-transformer
+	url = git@github.com:shihui2010/table-transformer.git
